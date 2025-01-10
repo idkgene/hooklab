@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@tailwindcss/typography": "^0.5.15",
-    "fumadocs-ui": "14.5.2",
+    "fumadocs-ui": "14.6.0",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7"
   },
